@@ -11,7 +11,7 @@
 
 # 職務経歴
 
-## 株式会社Stack / 基盤システム開発
+## [株式会社Stack](https://stack.inc/) / 基盤システム開発
 
 期間：2025/09 〜 現在
 
@@ -19,7 +19,7 @@ https://stack.inc/pages/sq
 
 利用技術：xxx
 
-## フリー株式会社 / 会計アプリ Android/iOS/バックエンド 開発・保守
+## [フリー株式会社](https://www.freee.co.jp/) / 会計アプリ Android/iOS/バックエンド 開発・保守
 
 期間：2023/09 ～ 2025/08
 
@@ -33,7 +33,7 @@ https://stack.inc/pages/sq
 
 利用技術：iOS, Android, Swift, SPM, Kotlin, Ruby on Rails
 
-## フリー株式会社 / PoC向けLLM API開発
+## [フリー株式会社](https://www.freee.co.jp/) / PoC向けLLM API開発
 
 期間：2024/09 ～ 2025/01
 
@@ -41,7 +41,7 @@ https://stack.inc/pages/sq
 
 利用技術：AWS Lambda, Bedrock, S3, cloudfront, Node.js, express.js
 
-## フリー株式会社 / 社内向け 認証SDK 開発
+## [フリー株式会社](https://www.freee.co.jp/) / 社内向け 認証SDK 開発
 
 期間：2023/12 ～ 2024/04
 
