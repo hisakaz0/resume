@@ -7,31 +7,47 @@
 | 生年月日 | 1993/12/23 |
 | GitHub | [https://github.com/hisakaz0](https://github.com/hisakaz0) |
 
-![k3zbfmatpt1i2psl5jujx24fcvhu.png](%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8%2074bfcd77f6474b4dbc428c8128744d01/k3zbfmatpt1i2psl5jujx24fcvhu.png)
+![profile.png](media/profile.png)
 
 # 職務経歴
 
-## フリー株式会社 / 会計アプリ Android版 開発・保守
+## 株式会社Stack / 基盤システム開発
 
-期間：2023/09 ～ 現在
+期間：2025/09 〜 現在
 
-いままで気づかれていなかったクラッシュ修正し、クラッシュフリー率を1%弱改善。チーム内プロジェクトをメインで担当しつつ、事業部全体のプロジェクトを携わった。
+https://stack.inc/pages/sq
+
+利用技術：xxx
+
+## フリー株式会社 / 会計アプリ Android/iOS/バックエンド 開発・保守
+
+期間：2023/09 ～ 2025/08
+
+チーム内プロジェクトをメインで担当しつつ、事業部全体のプロジェクトにも携わった。具体は以下。
+
+* いままで原因が分からず放置されていたクラッシュ修正
+    * クラッシュフリー率を約1,2%改善
+* 強制アップデート実施
+* Android15(targetsdk 35)、edge-to-edgeの対応
+* クライアントで利用するAPI開発(BFF)
+
+利用技術：iOS, Android, Swift, SPM, Kotlin, Ruby on Rails
 
 ## フリー株式会社 / PoC向けLLM API開発
 
 期間：2024/09 ～ 2025/01
 
-iOS/Androidアプリ向けにLLM/RAGを利用できる簡易なAPIを作成。他チームから協力してもらい、インフラ構築からAPI開発まで担当。
+フロントアプリ向けにLLM/RAGを利用できるPoCなAPIを作成。他チームと協力しながら、インフラ設計・構築からAPI開発まで担当。2名のチームで主に担当した。
 
 利用技術：AWS Lambda, Bedrock, S3, cloudfront, Node.js, express.js
 
-## フリー株式会社 / 社内向け auth sdk 開発
+## フリー株式会社 / 社内向け 認証SDK 開発
 
 期間：2023/12 ～ 2024/04
 
-iOS/Androidアプリで OAuth 2.0 の対応するため社内向けSDKの作成。仕様策定から導入手順書の作成などゼロから作成。 
+iOS/Androidアプリで OAuth 2.0 を使った認証に対応するため社内向けSDKの作成。仕様策定、SDK開発、導入手順書の作成などを担当した。PKCEにも対応した。
 
-りようぎｊ
+利用技術：iOS, Swift, Android, Kotlin, OAuth, ASWebAuthenticationSession, Android Custom Tabs
 
 ## [合同会社DMM.com](https://dmm-corp.com/)  / [DMM TV](https://tv.dmm.com/) 新サービス立ち上げ
 
