@@ -7,7 +7,7 @@
 | 生年月日 | 1993/12/23 |
 | GitHub | [https://github.com/hisakaz0](https://github.com/hisakaz0) |
 
-![profile.png](media/profile.png)
+<image alt='profile' src='media/profile.png' width=320 />
 
 # 職務経歴
 
