@@ -13,11 +13,11 @@
 
 ## [株式会社Stack](https://stack.inc/) / 基盤システム開発
 
-期間：2025/09 〜 現在
+期間：2025/09 〜 2026/03(現在)
 
-https://stack.inc/pages/sq
+https://stack.inc/pages/sq の開発に従事中。
 
-利用技術：xxx
+利用技術：GCP(BigQuery, Cloud Tasks, Cloud Run Service/Jobs, Spanner, Cloud Storage, Storage Transfer 等), Go, React, Next.js 
 
 ## [フリー株式会社](https://www.freee.co.jp/) / 会計アプリ Android/iOS/バックエンド 開発・保守
 
